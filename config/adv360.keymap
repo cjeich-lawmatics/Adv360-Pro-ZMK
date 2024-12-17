@@ -34,7 +34,7 @@
     };
   };
 
-  &mt {
+  &mymt {
     compatible = "zmk,behavior-mod-morph";
     label = "MOD_TAP";
     #binding-cells = <2>;
